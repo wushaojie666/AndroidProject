@@ -1,0 +1,2 @@
+rootProject.name='MySeven'
+include ':app'
